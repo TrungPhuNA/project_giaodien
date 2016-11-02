@@ -1,0 +1,31 @@
+
+h3{margin: 0px;font-size: 20px;}
+.thumbnail{margin-bottom: 0px;}
+/*=============HEADER=============*/
+.header{ border: 1px solid red; }
+.logo a{font-size: 50px;text-decoration: none;} .logo a:hover { text-decoration: none; }
+.search input{height:50px;} .search #q{width: 85%;margin: 15px; padding: 5px 10px;} .search #s{margin-left:-20px;width:13%}
+
+/*=============END HEADER=============*/
+
+
+/*=============MAIN CONTENT=============*/
+
+.slide { width:100%;height: 250px;border: 1px solid red;margin: 5px 0px; }
+
+.item{text-align: center;padding:15px} .title-product{color:#505051;font-size: 16px; text-align: center;font-weight: bold;} .price{font-size: 15px;font-weight: bold;color: red} a.title-product:hover{text-decoration: none;color: #3d9429} strike{color: #666}
+.icon-list{color: #3d9429;margin-right: 5px;padding:11px;background:white }
+.content .panel-heading{background: #ddd} .icon-np{} .icon-np i{background: white;padding: 11px;font-weight: bold;text-align: center;margin-top: 3px;}
+
+/*----SIDENAR------*/
+
+.post-item{border-bottom: 1px dotted #333;padding: 5px 0px;} .user-view{color:#3d9429 }
+
+/*----END SIDENAR------*/
+/*=============END MAIN CONTENT=============*/
+/* ==========FOOTER============ */
+.footer{background: #000000} .main-footer{border-bottom: 2px solid white}
+/* ============END FOOTER======== */
+
+
+
